@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Framework/Interface/IApplication.hpp
+Interface.hpp
+../Framework/Interface/Interface.hpp
+IRuntimeModule.hpp
+../Framework/Interface/IRuntimeModule.hpp
+
+../Framework/Interface/IRuntimeModule.hpp
+Interface.hpp
+../Framework/Interface/Interface.hpp
+
+../Framework/Interface/Interface.hpp
+
+C:/Users/lee/Desktop/red/IrisWorld/Framework/Common/BaseApplication.cpp
+BaseApplication.hpp
+C:/Users/lee/Desktop/red/IrisWorld/Framework/Common/BaseApplication.hpp
+stdio.h
+-
+
+C:/Users/lee/Desktop/red/IrisWorld/Framework/Common/BaseApplication.hpp
+IApplication.hpp
+C:/Users/lee/Desktop/red/IrisWorld/Framework/Common/IApplication.hpp
+

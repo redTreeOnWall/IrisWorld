@@ -1,0 +1,10 @@
+C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/edit_cache.dir
+C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/rebuild_cache.dir
+C:/Users/lee/Desktop/red/IrisWorld/build/Framework/CMakeFiles/edit_cache.dir
+C:/Users/lee/Desktop/red/IrisWorld/build/Framework/CMakeFiles/rebuild_cache.dir
+C:/Users/lee/Desktop/red/IrisWorld/build/Framework/Common/CMakeFiles/Common.dir
+C:/Users/lee/Desktop/red/IrisWorld/build/Framework/Common/CMakeFiles/edit_cache.dir
+C:/Users/lee/Desktop/red/IrisWorld/build/Framework/Common/CMakeFiles/rebuild_cache.dir
+C:/Users/lee/Desktop/red/IrisWorld/build/Empty/CMakeFiles/Empty.dir
+C:/Users/lee/Desktop/red/IrisWorld/build/Empty/CMakeFiles/edit_cache.dir
+C:/Users/lee/Desktop/red/IrisWorld/build/Empty/CMakeFiles/rebuild_cache.dir
