@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "tchar.h": "c",
+        "windowsx.h": "c",
+        "windows.h": "c"
+    }
+}

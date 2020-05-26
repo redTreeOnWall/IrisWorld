@@ -7,14 +7,6 @@ set(CMAKE_DEPENDS_GENERATOR "MinGW Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
-  "../CMakeLists.txt"
-  "../Empty/CMakeLists.txt"
-  "../Framework/CMakeLists.txt"
-  "../Framework/Common/CMakeLists.txt"
-  "CMakeFiles/3.13.0/CMakeCCompiler.cmake"
-  "CMakeFiles/3.13.0/CMakeCXXCompiler.cmake"
-  "CMakeFiles/3.13.0/CMakeRCCompiler.cmake"
-  "CMakeFiles/3.13.0/CMakeSystem.cmake"
   "E:/cMake/share/cmake-3.13/Modules/CMakeCInformation.cmake"
   "E:/cMake/share/cmake-3.13/Modules/CMakeCXXInformation.cmake"
   "E:/cMake/share/cmake-3.13/Modules/CMakeCommonLanguageInclude.cmake"
@@ -36,6 +28,14 @@ set(CMAKE_MAKEFILE_DEPENDS
   "E:/cMake/share/cmake-3.13/Modules/Platform/Windows-windres.cmake"
   "E:/cMake/share/cmake-3.13/Modules/Platform/Windows.cmake"
   "E:/cMake/share/cmake-3.13/Modules/Platform/WindowsPaths.cmake"
+  "../CMakeLists.txt"
+  "../Empty/CMakeLists.txt"
+  "../Framework/CMakeLists.txt"
+  "../Framework/Common/CMakeLists.txt"
+  "CMakeFiles/3.13.0/CMakeCCompiler.cmake"
+  "CMakeFiles/3.13.0/CMakeCXXCompiler.cmake"
+  "CMakeFiles/3.13.0/CMakeRCCompiler.cmake"
+  "CMakeFiles/3.13.0/CMakeSystem.cmake"
   )
 
 # The corresponding makefile is:

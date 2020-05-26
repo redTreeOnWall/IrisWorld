@@ -47,10 +47,10 @@ RM = E:\cMake\bin\cmake.exe -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\lee\Desktop\red\IrisWorld
+CMAKE_SOURCE_DIR = E:\leeFile\git\github\IrisWorld
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\lee\Desktop\red\IrisWorld\build
+CMAKE_BINARY_DIR = E:\leeFile\git\github\IrisWorld\build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -79,14 +79,14 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /d C:\Users\lee\Desktop\red\IrisWorld\build && $(CMAKE_COMMAND) -E cmake_progress_start C:\Users\lee\Desktop\red\IrisWorld\build\CMakeFiles C:\Users\lee\Desktop\red\IrisWorld\build\Empty\CMakeFiles\progress.marks
-	cd /d C:\Users\lee\Desktop\red\IrisWorld\build && $(MAKE) -f CMakeFiles\Makefile2 Empty/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\lee\Desktop\red\IrisWorld\build\CMakeFiles 0
+	cd /d E:\leeFile\git\github\IrisWorld\build && $(CMAKE_COMMAND) -E cmake_progress_start E:\leeFile\git\github\IrisWorld\build\CMakeFiles E:\leeFile\git\github\IrisWorld\build\Empty\CMakeFiles\progress.marks
+	cd /d E:\leeFile\git\github\IrisWorld\build && $(MAKE) -f CMakeFiles\Makefile2 Empty/all
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\leeFile\git\github\IrisWorld\build\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /d C:\Users\lee\Desktop\red\IrisWorld\build && $(MAKE) -f CMakeFiles\Makefile2 Empty/clean
+	cd /d E:\leeFile\git\github\IrisWorld\build && $(MAKE) -f CMakeFiles\Makefile2 Empty/clean
 .PHONY : clean
 
 # The main clean target
@@ -96,22 +96,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /d C:\Users\lee\Desktop\red\IrisWorld\build && $(MAKE) -f CMakeFiles\Makefile2 Empty/preinstall
+	cd /d E:\leeFile\git\github\IrisWorld\build && $(MAKE) -f CMakeFiles\Makefile2 Empty/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /d C:\Users\lee\Desktop\red\IrisWorld\build && $(MAKE) -f CMakeFiles\Makefile2 Empty/preinstall
+	cd /d E:\leeFile\git\github\IrisWorld\build && $(MAKE) -f CMakeFiles\Makefile2 Empty/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /d C:\Users\lee\Desktop\red\IrisWorld\build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 1
+	cd /d E:\leeFile\git\github\IrisWorld\build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 Empty/CMakeFiles/Empty.dir/rule:
-	cd /d C:\Users\lee\Desktop\red\IrisWorld\build && $(MAKE) -f CMakeFiles\Makefile2 Empty/CMakeFiles/Empty.dir/rule
+	cd /d E:\leeFile\git\github\IrisWorld\build && $(MAKE) -f CMakeFiles\Makefile2 Empty/CMakeFiles/Empty.dir/rule
 .PHONY : Empty/CMakeFiles/Empty.dir/rule
 
 # Convenience name for target.
@@ -121,7 +121,7 @@ Empty: Empty/CMakeFiles/Empty.dir/rule
 
 # fast build rule for target.
 Empty/fast:
-	cd /d C:\Users\lee\Desktop\red\IrisWorld\build && $(MAKE) -f Empty\CMakeFiles\Empty.dir\build.make Empty/CMakeFiles/Empty.dir/build
+	cd /d E:\leeFile\git\github\IrisWorld\build && $(MAKE) -f Empty\CMakeFiles\Empty.dir\build.make Empty/CMakeFiles/Empty.dir/build
 .PHONY : Empty/fast
 
 EmptyApplication.obj: EmptyApplication.cpp.obj
@@ -130,7 +130,7 @@ EmptyApplication.obj: EmptyApplication.cpp.obj
 
 # target to build an object file
 EmptyApplication.cpp.obj:
-	cd /d C:\Users\lee\Desktop\red\IrisWorld\build && $(MAKE) -f Empty\CMakeFiles\Empty.dir\build.make Empty/CMakeFiles/Empty.dir/EmptyApplication.cpp.obj
+	cd /d E:\leeFile\git\github\IrisWorld\build && $(MAKE) -f Empty\CMakeFiles\Empty.dir\build.make Empty/CMakeFiles/Empty.dir/EmptyApplication.cpp.obj
 .PHONY : EmptyApplication.cpp.obj
 
 EmptyApplication.i: EmptyApplication.cpp.i
@@ -139,7 +139,7 @@ EmptyApplication.i: EmptyApplication.cpp.i
 
 # target to preprocess a source file
 EmptyApplication.cpp.i:
-	cd /d C:\Users\lee\Desktop\red\IrisWorld\build && $(MAKE) -f Empty\CMakeFiles\Empty.dir\build.make Empty/CMakeFiles/Empty.dir/EmptyApplication.cpp.i
+	cd /d E:\leeFile\git\github\IrisWorld\build && $(MAKE) -f Empty\CMakeFiles\Empty.dir\build.make Empty/CMakeFiles/Empty.dir/EmptyApplication.cpp.i
 .PHONY : EmptyApplication.cpp.i
 
 EmptyApplication.s: EmptyApplication.cpp.s
@@ -148,7 +148,7 @@ EmptyApplication.s: EmptyApplication.cpp.s
 
 # target to generate assembly for a file
 EmptyApplication.cpp.s:
-	cd /d C:\Users\lee\Desktop\red\IrisWorld\build && $(MAKE) -f Empty\CMakeFiles\Empty.dir\build.make Empty/CMakeFiles/Empty.dir/EmptyApplication.cpp.s
+	cd /d E:\leeFile\git\github\IrisWorld\build && $(MAKE) -f Empty\CMakeFiles\Empty.dir\build.make Empty/CMakeFiles/Empty.dir/EmptyApplication.cpp.s
 .PHONY : EmptyApplication.cpp.s
 
 # Help Target
@@ -174,6 +174,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /d C:\Users\lee\Desktop\red\IrisWorld\build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 0
+	cd /d E:\leeFile\git\github\IrisWorld\build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

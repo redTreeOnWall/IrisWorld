@@ -4,8 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/lee/Desktop/red/IrisWorld/Framework/Common/BaseApplication.cpp" "C:/Users/lee/Desktop/red/IrisWorld/build/Framework/Common/CMakeFiles/Common.dir/BaseApplication.cpp.obj"
-  "C:/Users/lee/Desktop/red/IrisWorld/Framework/Common/main.cpp" "C:/Users/lee/Desktop/red/IrisWorld/build/Framework/Common/CMakeFiles/Common.dir/main.cpp.obj"
+  "E:/leeFile/git/github/IrisWorld/Framework/Common/BaseApplication.cpp" "E:/leeFile/git/github/IrisWorld/build/Framework/Common/CMakeFiles/Common.dir/BaseApplication.cpp.obj"
+  "E:/leeFile/git/github/IrisWorld/Framework/Common/GraphicsManager.cpp" "E:/leeFile/git/github/IrisWorld/build/Framework/Common/CMakeFiles/Common.dir/GraphicsManager.cpp.obj"
+  "E:/leeFile/git/github/IrisWorld/Framework/Common/main.cpp" "E:/leeFile/git/github/IrisWorld/build/Framework/Common/CMakeFiles/Common.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

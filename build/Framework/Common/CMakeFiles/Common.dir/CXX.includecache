@@ -18,13 +18,19 @@ Interface.hpp
 
 ../Framework/Interface/Interface.hpp
 
-C:/Users/lee/Desktop/red/IrisWorld/Framework/Common/BaseApplication.cpp
+E:/leeFile/git/github/IrisWorld/Framework/Common/BaseApplication.cpp
 BaseApplication.hpp
-C:/Users/lee/Desktop/red/IrisWorld/Framework/Common/BaseApplication.hpp
-stdio.h
--
+E:/leeFile/git/github/IrisWorld/Framework/Common/BaseApplication.hpp
 
-C:/Users/lee/Desktop/red/IrisWorld/Framework/Common/BaseApplication.hpp
+E:/leeFile/git/github/IrisWorld/Framework/Common/BaseApplication.hpp
 IApplication.hpp
-C:/Users/lee/Desktop/red/IrisWorld/Framework/Common/IApplication.hpp
+E:/leeFile/git/github/IrisWorld/Framework/Common/IApplication.hpp
+
+E:/leeFile/git/github/IrisWorld/Framework/Common/GraphicsManager.cpp
+GraphicsManager.hpp
+E:/leeFile/git/github/IrisWorld/Framework/Common/GraphicsManager.hpp
+
+E:/leeFile/git/github/IrisWorld/Framework/Common/GraphicsManager.hpp
+IRuntimeModule.hpp
+E:/leeFile/git/github/IrisWorld/Framework/Common/IRuntimeModule.hpp
 

@@ -47,10 +47,10 @@ RM = E:\cMake\bin\cmake.exe -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\lee\Desktop\red\IrisWorld
+CMAKE_SOURCE_DIR = E:\leeFile\git\github\IrisWorld
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\lee\Desktop\red\IrisWorld\build
+CMAKE_BINARY_DIR = E:\leeFile\git\github\IrisWorld\build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -79,14 +79,14 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /d C:\Users\lee\Desktop\red\IrisWorld\build && $(CMAKE_COMMAND) -E cmake_progress_start C:\Users\lee\Desktop\red\IrisWorld\build\CMakeFiles C:\Users\lee\Desktop\red\IrisWorld\build\Framework\Common\CMakeFiles\progress.marks
-	cd /d C:\Users\lee\Desktop\red\IrisWorld\build && $(MAKE) -f CMakeFiles\Makefile2 Framework/Common/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\lee\Desktop\red\IrisWorld\build\CMakeFiles 0
+	cd /d E:\leeFile\git\github\IrisWorld\build && $(CMAKE_COMMAND) -E cmake_progress_start E:\leeFile\git\github\IrisWorld\build\CMakeFiles E:\leeFile\git\github\IrisWorld\build\Framework\Common\CMakeFiles\progress.marks
+	cd /d E:\leeFile\git\github\IrisWorld\build && $(MAKE) -f CMakeFiles\Makefile2 Framework/Common/all
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\leeFile\git\github\IrisWorld\build\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /d C:\Users\lee\Desktop\red\IrisWorld\build && $(MAKE) -f CMakeFiles\Makefile2 Framework/Common/clean
+	cd /d E:\leeFile\git\github\IrisWorld\build && $(MAKE) -f CMakeFiles\Makefile2 Framework/Common/clean
 .PHONY : clean
 
 # The main clean target
@@ -96,22 +96,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /d C:\Users\lee\Desktop\red\IrisWorld\build && $(MAKE) -f CMakeFiles\Makefile2 Framework/Common/preinstall
+	cd /d E:\leeFile\git\github\IrisWorld\build && $(MAKE) -f CMakeFiles\Makefile2 Framework/Common/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /d C:\Users\lee\Desktop\red\IrisWorld\build && $(MAKE) -f CMakeFiles\Makefile2 Framework/Common/preinstall
+	cd /d E:\leeFile\git\github\IrisWorld\build && $(MAKE) -f CMakeFiles\Makefile2 Framework/Common/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /d C:\Users\lee\Desktop\red\IrisWorld\build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 1
+	cd /d E:\leeFile\git\github\IrisWorld\build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 Framework/Common/CMakeFiles/Common.dir/rule:
-	cd /d C:\Users\lee\Desktop\red\IrisWorld\build && $(MAKE) -f CMakeFiles\Makefile2 Framework/Common/CMakeFiles/Common.dir/rule
+	cd /d E:\leeFile\git\github\IrisWorld\build && $(MAKE) -f CMakeFiles\Makefile2 Framework/Common/CMakeFiles/Common.dir/rule
 .PHONY : Framework/Common/CMakeFiles/Common.dir/rule
 
 # Convenience name for target.
@@ -121,7 +121,7 @@ Common: Framework/Common/CMakeFiles/Common.dir/rule
 
 # fast build rule for target.
 Common/fast:
-	cd /d C:\Users\lee\Desktop\red\IrisWorld\build && $(MAKE) -f Framework\Common\CMakeFiles\Common.dir\build.make Framework/Common/CMakeFiles/Common.dir/build
+	cd /d E:\leeFile\git\github\IrisWorld\build && $(MAKE) -f Framework\Common\CMakeFiles\Common.dir\build.make Framework/Common/CMakeFiles/Common.dir/build
 .PHONY : Common/fast
 
 BaseApplication.obj: BaseApplication.cpp.obj
@@ -130,7 +130,7 @@ BaseApplication.obj: BaseApplication.cpp.obj
 
 # target to build an object file
 BaseApplication.cpp.obj:
-	cd /d C:\Users\lee\Desktop\red\IrisWorld\build && $(MAKE) -f Framework\Common\CMakeFiles\Common.dir\build.make Framework/Common/CMakeFiles/Common.dir/BaseApplication.cpp.obj
+	cd /d E:\leeFile\git\github\IrisWorld\build && $(MAKE) -f Framework\Common\CMakeFiles\Common.dir\build.make Framework/Common/CMakeFiles/Common.dir/BaseApplication.cpp.obj
 .PHONY : BaseApplication.cpp.obj
 
 BaseApplication.i: BaseApplication.cpp.i
@@ -139,7 +139,7 @@ BaseApplication.i: BaseApplication.cpp.i
 
 # target to preprocess a source file
 BaseApplication.cpp.i:
-	cd /d C:\Users\lee\Desktop\red\IrisWorld\build && $(MAKE) -f Framework\Common\CMakeFiles\Common.dir\build.make Framework/Common/CMakeFiles/Common.dir/BaseApplication.cpp.i
+	cd /d E:\leeFile\git\github\IrisWorld\build && $(MAKE) -f Framework\Common\CMakeFiles\Common.dir\build.make Framework/Common/CMakeFiles/Common.dir/BaseApplication.cpp.i
 .PHONY : BaseApplication.cpp.i
 
 BaseApplication.s: BaseApplication.cpp.s
@@ -148,8 +148,35 @@ BaseApplication.s: BaseApplication.cpp.s
 
 # target to generate assembly for a file
 BaseApplication.cpp.s:
-	cd /d C:\Users\lee\Desktop\red\IrisWorld\build && $(MAKE) -f Framework\Common\CMakeFiles\Common.dir\build.make Framework/Common/CMakeFiles/Common.dir/BaseApplication.cpp.s
+	cd /d E:\leeFile\git\github\IrisWorld\build && $(MAKE) -f Framework\Common\CMakeFiles\Common.dir\build.make Framework/Common/CMakeFiles/Common.dir/BaseApplication.cpp.s
 .PHONY : BaseApplication.cpp.s
+
+GraphicsManager.obj: GraphicsManager.cpp.obj
+
+.PHONY : GraphicsManager.obj
+
+# target to build an object file
+GraphicsManager.cpp.obj:
+	cd /d E:\leeFile\git\github\IrisWorld\build && $(MAKE) -f Framework\Common\CMakeFiles\Common.dir\build.make Framework/Common/CMakeFiles/Common.dir/GraphicsManager.cpp.obj
+.PHONY : GraphicsManager.cpp.obj
+
+GraphicsManager.i: GraphicsManager.cpp.i
+
+.PHONY : GraphicsManager.i
+
+# target to preprocess a source file
+GraphicsManager.cpp.i:
+	cd /d E:\leeFile\git\github\IrisWorld\build && $(MAKE) -f Framework\Common\CMakeFiles\Common.dir\build.make Framework/Common/CMakeFiles/Common.dir/GraphicsManager.cpp.i
+.PHONY : GraphicsManager.cpp.i
+
+GraphicsManager.s: GraphicsManager.cpp.s
+
+.PHONY : GraphicsManager.s
+
+# target to generate assembly for a file
+GraphicsManager.cpp.s:
+	cd /d E:\leeFile\git\github\IrisWorld\build && $(MAKE) -f Framework\Common\CMakeFiles\Common.dir\build.make Framework/Common/CMakeFiles/Common.dir/GraphicsManager.cpp.s
+.PHONY : GraphicsManager.cpp.s
 
 main.obj: main.cpp.obj
 
@@ -157,7 +184,7 @@ main.obj: main.cpp.obj
 
 # target to build an object file
 main.cpp.obj:
-	cd /d C:\Users\lee\Desktop\red\IrisWorld\build && $(MAKE) -f Framework\Common\CMakeFiles\Common.dir\build.make Framework/Common/CMakeFiles/Common.dir/main.cpp.obj
+	cd /d E:\leeFile\git\github\IrisWorld\build && $(MAKE) -f Framework\Common\CMakeFiles\Common.dir\build.make Framework/Common/CMakeFiles/Common.dir/main.cpp.obj
 .PHONY : main.cpp.obj
 
 main.i: main.cpp.i
@@ -166,7 +193,7 @@ main.i: main.cpp.i
 
 # target to preprocess a source file
 main.cpp.i:
-	cd /d C:\Users\lee\Desktop\red\IrisWorld\build && $(MAKE) -f Framework\Common\CMakeFiles\Common.dir\build.make Framework/Common/CMakeFiles/Common.dir/main.cpp.i
+	cd /d E:\leeFile\git\github\IrisWorld\build && $(MAKE) -f Framework\Common\CMakeFiles\Common.dir\build.make Framework/Common/CMakeFiles/Common.dir/main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -175,7 +202,7 @@ main.s: main.cpp.s
 
 # target to generate assembly for a file
 main.cpp.s:
-	cd /d C:\Users\lee\Desktop\red\IrisWorld\build && $(MAKE) -f Framework\Common\CMakeFiles\Common.dir\build.make Framework/Common/CMakeFiles/Common.dir/main.cpp.s
+	cd /d E:\leeFile\git\github\IrisWorld\build && $(MAKE) -f Framework\Common\CMakeFiles\Common.dir\build.make Framework/Common/CMakeFiles/Common.dir/main.cpp.s
 .PHONY : main.cpp.s
 
 # Help Target
@@ -190,6 +217,9 @@ help:
 	@echo ... BaseApplication.obj
 	@echo ... BaseApplication.i
 	@echo ... BaseApplication.s
+	@echo ... GraphicsManager.obj
+	@echo ... GraphicsManager.i
+	@echo ... GraphicsManager.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
@@ -204,6 +234,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /d C:\Users\lee\Desktop\red\IrisWorld\build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 0
+	cd /d E:\leeFile\git\github\IrisWorld\build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

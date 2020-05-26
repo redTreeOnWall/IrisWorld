@@ -5,10 +5,15 @@ Framework/Common/CMakeFiles/Common.dir/BaseApplication.cpp.obj
  ../Framework/Interface/IApplication.hpp
  ../Framework/Interface/IRuntimeModule.hpp
  ../Framework/Interface/Interface.hpp
- C:/Users/lee/Desktop/red/IrisWorld/Framework/Common/BaseApplication.cpp
- C:/Users/lee/Desktop/red/IrisWorld/Framework/Common/BaseApplication.hpp
+ E:/leeFile/git/github/IrisWorld/Framework/Common/BaseApplication.cpp
+ E:/leeFile/git/github/IrisWorld/Framework/Common/BaseApplication.hpp
+Framework/Common/CMakeFiles/Common.dir/GraphicsManager.cpp.obj
+ ../Framework/Interface/IRuntimeModule.hpp
+ ../Framework/Interface/Interface.hpp
+ E:/leeFile/git/github/IrisWorld/Framework/Common/GraphicsManager.cpp
+ E:/leeFile/git/github/IrisWorld/Framework/Common/GraphicsManager.hpp
 Framework/Common/CMakeFiles/Common.dir/main.cpp.obj
  ../Framework/Interface/IApplication.hpp
  ../Framework/Interface/IRuntimeModule.hpp
  ../Framework/Interface/Interface.hpp
- C:/Users/lee/Desktop/red/IrisWorld/Framework/Common/main.cpp
+ E:/leeFile/git/github/IrisWorld/Framework/Common/main.cpp

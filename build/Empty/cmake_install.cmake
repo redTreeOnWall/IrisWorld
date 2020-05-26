@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/lee/Desktop/red/IrisWorld/Empty
+# Install script for directory: E:/leeFile/git/github/IrisWorld/Empty
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

@@ -1,4 +1,4 @@
-The system is: Windows - 10.0.17134 - AMD64
+The system is: Windows - 10.0.17763 - AMD64
 Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
 Compiler: E:/leesoft/Mingw64/mingw64/bin/gcc.exe 
 Build flags: 
@@ -10,7 +10,7 @@ The output was:
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
 
-The C compiler identification is GNU, found in "C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/3.13.0/CompilerIdC/a.exe"
+The C compiler identification is GNU, found in "E:/leeFile/git/github/IrisWorld/build/CMakeFiles/3.13.0/CompilerIdC/a.exe"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler: E:/leesoft/Mingw64/mingw64/bin/g++.exe 
@@ -23,37 +23,37 @@ The output was:
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
 
-The CXX compiler identification is GNU, found in "C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/3.13.0/CompilerIdCXX/a.exe"
+The CXX compiler identification is GNU, found in "E:/leeFile/git/github/IrisWorld/build/CMakeFiles/3.13.0/CompilerIdCXX/a.exe"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp
+Change Dir: E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe" "cmTC_c705f/fast"
-E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_c705f.dir\build.make CMakeFiles/cmTC_c705f.dir/build
-mingw32-make.exe[1]: Entering directory 'C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_c705f.dir/testCCompiler.c.obj
-E:\leesoft\Mingw64\mingw64\bin\gcc.exe    -o CMakeFiles\cmTC_c705f.dir\testCCompiler.c.obj   -c C:\Users\lee\Desktop\red\IrisWorld\build\CMakeFiles\CMakeTmp\testCCompiler.c
-Linking C executable cmTC_c705f.exe
-E:\cMake\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_c705f.dir\link.txt --verbose=1
-E:\cMake\bin\cmake.exe -E remove -f CMakeFiles\cmTC_c705f.dir/objects.a
-E:\leesoft\Mingw64\mingw64\bin\ar.exe cr CMakeFiles\cmTC_c705f.dir/objects.a @CMakeFiles\cmTC_c705f.dir\objects1.rsp
-E:\leesoft\Mingw64\mingw64\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_c705f.dir/objects.a -Wl,--no-whole-archive  -o cmTC_c705f.exe -Wl,--out-implib,libcmTC_c705f.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_c705f.dir\linklibs.rsp
-mingw32-make.exe[1]: Leaving directory 'C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp'
+Run Build Command:"E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe" "cmTC_634e9/fast"
+E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_634e9.dir\build.make CMakeFiles/cmTC_634e9.dir/build
+mingw32-make.exe[1]: Entering directory 'E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_634e9.dir/testCCompiler.c.obj
+E:\leesoft\Mingw64\mingw64\bin\gcc.exe    -o CMakeFiles\cmTC_634e9.dir\testCCompiler.c.obj   -c E:\leeFile\git\github\IrisWorld\build\CMakeFiles\CMakeTmp\testCCompiler.c
+Linking C executable cmTC_634e9.exe
+E:\cMake\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_634e9.dir\link.txt --verbose=1
+E:\cMake\bin\cmake.exe -E remove -f CMakeFiles\cmTC_634e9.dir/objects.a
+E:\leesoft\Mingw64\mingw64\bin\ar.exe cr CMakeFiles\cmTC_634e9.dir/objects.a @CMakeFiles\cmTC_634e9.dir\objects1.rsp
+E:\leesoft\Mingw64\mingw64\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_634e9.dir/objects.a -Wl,--no-whole-archive  -o cmTC_634e9.exe -Wl,--out-implib,libcmTC_634e9.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_634e9.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp'
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp
+Change Dir: E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe" "cmTC_41707/fast"
-E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_41707.dir\build.make CMakeFiles/cmTC_41707.dir/build
-mingw32-make.exe[1]: Entering directory 'C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_41707.dir/CMakeCCompilerABI.c.obj
-E:\leesoft\Mingw64\mingw64\bin\gcc.exe    -o CMakeFiles\cmTC_41707.dir\CMakeCCompilerABI.c.obj   -c E:\cMake\share\cmake-3.13\Modules\CMakeCCompilerABI.c
-Linking C executable cmTC_41707.exe
-E:\cMake\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_41707.dir\link.txt --verbose=1
-E:\cMake\bin\cmake.exe -E remove -f CMakeFiles\cmTC_41707.dir/objects.a
-E:\leesoft\Mingw64\mingw64\bin\ar.exe cr CMakeFiles\cmTC_41707.dir/objects.a @CMakeFiles\cmTC_41707.dir\objects1.rsp
-E:\leesoft\Mingw64\mingw64\bin\gcc.exe     -v -Wl,--whole-archive CMakeFiles\cmTC_41707.dir/objects.a -Wl,--no-whole-archive  -o cmTC_41707.exe -Wl,--out-implib,libcmTC_41707.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+Run Build Command:"E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe" "cmTC_aac6a/fast"
+E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_aac6a.dir\build.make CMakeFiles/cmTC_aac6a.dir/build
+mingw32-make.exe[1]: Entering directory 'E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_aac6a.dir/CMakeCCompilerABI.c.obj
+E:\leesoft\Mingw64\mingw64\bin\gcc.exe    -o CMakeFiles\cmTC_aac6a.dir\CMakeCCompilerABI.c.obj   -c E:\cMake\share\cmake-3.13\Modules\CMakeCCompilerABI.c
+Linking C executable cmTC_aac6a.exe
+E:\cMake\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_aac6a.dir\link.txt --verbose=1
+E:\cMake\bin\cmake.exe -E remove -f CMakeFiles\cmTC_aac6a.dir/objects.a
+E:\leesoft\Mingw64\mingw64\bin\ar.exe cr CMakeFiles\cmTC_aac6a.dir/objects.a @CMakeFiles\cmTC_aac6a.dir\objects1.rsp
+E:\leesoft\Mingw64\mingw64\bin\gcc.exe     -v -Wl,--whole-archive CMakeFiles\cmTC_aac6a.dir/objects.a -Wl,--no-whole-archive  -o cmTC_aac6a.exe -Wl,--out-implib,libcmTC_aac6a.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
 Using built-in specs.
 COLLECT_GCC=E:\leesoft\Mingw64\mingw64\bin\gcc.exe
 COLLECT_LTO_WRAPPER=E:/leesoft/Mingw64/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/lto-wrapper.exe
@@ -63,26 +63,26 @@ Thread model: posix
 gcc version 8.1.0 (x86_64-posix-seh-rev0, Built by MinGW-W64 project) 
 COMPILER_PATH=E:/leesoft/Mingw64/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/;E:/leesoft/Mingw64/mingw64/bin/../libexec/gcc/;E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/bin/
 LIBRARY_PATH=E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/;E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/;E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../lib/;E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/;E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_41707.exe' '-mtune=core2' '-march=nocona'
- E:/leesoft/Mingw64/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/collect2.exe -plugin E:/leesoft/Mingw64/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/liblto_plugin-0.dll -plugin-opt=E:/leesoft/Mingw64/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\lee\AppData\Local\Temp\ccrVvHlb.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt --sysroot=C:/mingw810/x86_64-810-posix-seh-rt_v6-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_41707.exe E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtbegin.o -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0 -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../lib -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../.. --whole-archive CMakeFiles\cmTC_41707.dir/objects.a --no-whole-archive --out-implib libcmTC_41707.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtend.o
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_41707.exe' '-mtune=core2' '-march=nocona'
-mingw32-make.exe[1]: Leaving directory 'C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_aac6a.exe' '-mtune=core2' '-march=nocona'
+ E:/leesoft/Mingw64/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/collect2.exe -plugin E:/leesoft/Mingw64/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/liblto_plugin-0.dll -plugin-opt=E:/leesoft/Mingw64/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\lee\AppData\Local\Temp\ccgZtI8j.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt --sysroot=C:/mingw810/x86_64-810-posix-seh-rt_v6-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_aac6a.exe E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtbegin.o -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0 -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../lib -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../.. --whole-archive CMakeFiles\cmTC_aac6a.dir/objects.a --no-whole-archive --out-implib libcmTC_aac6a.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtend.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_aac6a.exe' '-mtune=core2' '-march=nocona'
+mingw32-make.exe[1]: Leaving directory 'E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp'
 
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe" "cmTC_41707/fast"]
-  ignore line: [E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_41707.dir\build.make CMakeFiles/cmTC_41707.dir/build]
-  ignore line: [mingw32-make.exe[1]: Entering directory 'C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp']
-  ignore line: [Building C object CMakeFiles/cmTC_41707.dir/CMakeCCompilerABI.c.obj]
-  ignore line: [E:\leesoft\Mingw64\mingw64\bin\gcc.exe    -o CMakeFiles\cmTC_41707.dir\CMakeCCompilerABI.c.obj   -c E:\cMake\share\cmake-3.13\Modules\CMakeCCompilerABI.c]
-  ignore line: [Linking C executable cmTC_41707.exe]
-  ignore line: [E:\cMake\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_41707.dir\link.txt --verbose=1]
-  ignore line: [E:\cMake\bin\cmake.exe -E remove -f CMakeFiles\cmTC_41707.dir/objects.a]
-  ignore line: [E:\leesoft\Mingw64\mingw64\bin\ar.exe cr CMakeFiles\cmTC_41707.dir/objects.a @CMakeFiles\cmTC_41707.dir\objects1.rsp]
-  ignore line: [E:\leesoft\Mingw64\mingw64\bin\gcc.exe     -v -Wl,--whole-archive CMakeFiles\cmTC_41707.dir/objects.a -Wl,--no-whole-archive  -o cmTC_41707.exe -Wl,--out-implib,libcmTC_41707.dll.a -Wl,--major-image-version,0,--minor-image-version,0 ]
+  ignore line: [Run Build Command:"E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe" "cmTC_aac6a/fast"]
+  ignore line: [E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_aac6a.dir\build.make CMakeFiles/cmTC_aac6a.dir/build]
+  ignore line: [mingw32-make.exe[1]: Entering directory 'E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_aac6a.dir/CMakeCCompilerABI.c.obj]
+  ignore line: [E:\leesoft\Mingw64\mingw64\bin\gcc.exe    -o CMakeFiles\cmTC_aac6a.dir\CMakeCCompilerABI.c.obj   -c E:\cMake\share\cmake-3.13\Modules\CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTC_aac6a.exe]
+  ignore line: [E:\cMake\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_aac6a.dir\link.txt --verbose=1]
+  ignore line: [E:\cMake\bin\cmake.exe -E remove -f CMakeFiles\cmTC_aac6a.dir/objects.a]
+  ignore line: [E:\leesoft\Mingw64\mingw64\bin\ar.exe cr CMakeFiles\cmTC_aac6a.dir/objects.a @CMakeFiles\cmTC_aac6a.dir\objects1.rsp]
+  ignore line: [E:\leesoft\Mingw64\mingw64\bin\gcc.exe     -v -Wl,--whole-archive CMakeFiles\cmTC_aac6a.dir/objects.a -Wl,--no-whole-archive  -o cmTC_aac6a.exe -Wl,--out-implib,libcmTC_aac6a.dll.a -Wl,--major-image-version,0,--minor-image-version,0 ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=E:\leesoft\Mingw64\mingw64\bin\gcc.exe]
   ignore line: [COLLECT_LTO_WRAPPER=E:/leesoft/Mingw64/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/lto-wrapper.exe]
@@ -99,13 +99,13 @@ Parsed C implicit link information from above output:
   ignore line: [E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../lib/]
   ignore line: [E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/]
   ignore line: [E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_41707.exe' '-mtune=core2' '-march=nocona']
-  link line: [ E:/leesoft/Mingw64/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/collect2.exe -plugin E:/leesoft/Mingw64/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/liblto_plugin-0.dll -plugin-opt=E:/leesoft/Mingw64/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\lee\AppData\Local\Temp\ccrVvHlb.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt --sysroot=C:/mingw810/x86_64-810-posix-seh-rt_v6-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_41707.exe E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtbegin.o -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0 -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../lib -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../.. --whole-archive CMakeFiles\cmTC_41707.dir/objects.a --no-whole-archive --out-implib libcmTC_41707.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtend.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_aac6a.exe' '-mtune=core2' '-march=nocona']
+  link line: [ E:/leesoft/Mingw64/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/collect2.exe -plugin E:/leesoft/Mingw64/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/liblto_plugin-0.dll -plugin-opt=E:/leesoft/Mingw64/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\lee\AppData\Local\Temp\ccgZtI8j.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt --sysroot=C:/mingw810/x86_64-810-posix-seh-rt_v6-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_aac6a.exe E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtbegin.o -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0 -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../lib -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../.. --whole-archive CMakeFiles\cmTC_aac6a.dir/objects.a --no-whole-archive --out-implib libcmTC_aac6a.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtend.o]
     arg [E:/leesoft/Mingw64/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/collect2.exe] ==> ignore
     arg [-plugin] ==> ignore
     arg [E:/leesoft/Mingw64/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/liblto_plugin-0.dll] ==> ignore
     arg [-plugin-opt=E:/leesoft/Mingw64/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/lto-wrapper.exe] ==> ignore
-    arg [-plugin-opt=-fresolution=C:\Users\lee\AppData\Local\Temp\ccrVvHlb.res] ==> ignore
+    arg [-plugin-opt=-fresolution=C:\Users\lee\AppData\Local\Temp\ccgZtI8j.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_eh] ==> ignore
@@ -129,7 +129,7 @@ Parsed C implicit link information from above output:
     arg [i386pep] ==> ignore
     arg [-Bdynamic] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_41707.exe] ==> ignore
+    arg [cmTC_aac6a.exe] ==> ignore
     arg [E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o] ==> ignore
     arg [E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtbegin.o] ==> ignore
     arg [-LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0] ==> dir [E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0]
@@ -139,10 +139,10 @@ Parsed C implicit link information from above output:
     arg [-LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib] ==> dir [E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib]
     arg [-LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../..] ==> dir [E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../..]
     arg [--whole-archive] ==> ignore
-    arg [CMakeFiles\cmTC_41707.dir/objects.a] ==> ignore
+    arg [CMakeFiles\cmTC_aac6a.dir/objects.a] ==> ignore
     arg [--no-whole-archive] ==> ignore
     arg [--out-implib] ==> ignore
-    arg [libcmTC_41707.dll.a] ==> ignore
+    arg [libcmTC_aac6a.dll.a] ==> ignore
     arg [--major-image-version] ==> ignore
     arg [0] ==> ignore
     arg [--minor-image-version] ==> ignore
@@ -184,19 +184,19 @@ Parsed C implicit link information from above output:
 
 
 Detecting C [-std=c11] compiler features compiled with the following output:
-Change Dir: C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp
+Change Dir: E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe" "cmTC_9e7c6/fast"
-E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_9e7c6.dir\build.make CMakeFiles/cmTC_9e7c6.dir/build
-mingw32-make.exe[1]: Entering directory 'C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_9e7c6.dir/feature_tests.c.obj
-E:\leesoft\Mingw64\mingw64\bin\gcc.exe   -std=c11 -o CMakeFiles\cmTC_9e7c6.dir\feature_tests.c.obj   -c C:\Users\lee\Desktop\red\IrisWorld\build\CMakeFiles\feature_tests.c
-Linking C executable cmTC_9e7c6.exe
-E:\cMake\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_9e7c6.dir\link.txt --verbose=1
-E:\cMake\bin\cmake.exe -E remove -f CMakeFiles\cmTC_9e7c6.dir/objects.a
-E:\leesoft\Mingw64\mingw64\bin\ar.exe cr CMakeFiles\cmTC_9e7c6.dir/objects.a @CMakeFiles\cmTC_9e7c6.dir\objects1.rsp
-E:\leesoft\Mingw64\mingw64\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_9e7c6.dir/objects.a -Wl,--no-whole-archive  -o cmTC_9e7c6.exe -Wl,--out-implib,libcmTC_9e7c6.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_9e7c6.dir\linklibs.rsp
-mingw32-make.exe[1]: Leaving directory 'C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp'
+Run Build Command:"E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe" "cmTC_d92ee/fast"
+E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_d92ee.dir\build.make CMakeFiles/cmTC_d92ee.dir/build
+mingw32-make.exe[1]: Entering directory 'E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_d92ee.dir/feature_tests.c.obj
+E:\leesoft\Mingw64\mingw64\bin\gcc.exe   -std=c11 -o CMakeFiles\cmTC_d92ee.dir\feature_tests.c.obj   -c E:\leeFile\git\github\IrisWorld\build\CMakeFiles\feature_tests.c
+Linking C executable cmTC_d92ee.exe
+E:\cMake\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_d92ee.dir\link.txt --verbose=1
+E:\cMake\bin\cmake.exe -E remove -f CMakeFiles\cmTC_d92ee.dir/objects.a
+E:\leesoft\Mingw64\mingw64\bin\ar.exe cr CMakeFiles\cmTC_d92ee.dir/objects.a @CMakeFiles\cmTC_d92ee.dir\objects1.rsp
+E:\leesoft\Mingw64\mingw64\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_d92ee.dir/objects.a -Wl,--no-whole-archive  -o cmTC_d92ee.exe -Wl,--out-implib,libcmTC_d92ee.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_d92ee.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -206,19 +206,19 @@ mingw32-make.exe[1]: Leaving directory 'C:/Users/lee/Desktop/red/IrisWorld/build
 
 
 Detecting C [-std=c99] compiler features compiled with the following output:
-Change Dir: C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp
+Change Dir: E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe" "cmTC_158a6/fast"
-E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_158a6.dir\build.make CMakeFiles/cmTC_158a6.dir/build
-mingw32-make.exe[1]: Entering directory 'C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_158a6.dir/feature_tests.c.obj
-E:\leesoft\Mingw64\mingw64\bin\gcc.exe   -std=c99 -o CMakeFiles\cmTC_158a6.dir\feature_tests.c.obj   -c C:\Users\lee\Desktop\red\IrisWorld\build\CMakeFiles\feature_tests.c
-Linking C executable cmTC_158a6.exe
-E:\cMake\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_158a6.dir\link.txt --verbose=1
-E:\cMake\bin\cmake.exe -E remove -f CMakeFiles\cmTC_158a6.dir/objects.a
-E:\leesoft\Mingw64\mingw64\bin\ar.exe cr CMakeFiles\cmTC_158a6.dir/objects.a @CMakeFiles\cmTC_158a6.dir\objects1.rsp
-E:\leesoft\Mingw64\mingw64\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_158a6.dir/objects.a -Wl,--no-whole-archive  -o cmTC_158a6.exe -Wl,--out-implib,libcmTC_158a6.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_158a6.dir\linklibs.rsp
-mingw32-make.exe[1]: Leaving directory 'C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp'
+Run Build Command:"E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe" "cmTC_0744e/fast"
+E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_0744e.dir\build.make CMakeFiles/cmTC_0744e.dir/build
+mingw32-make.exe[1]: Entering directory 'E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_0744e.dir/feature_tests.c.obj
+E:\leesoft\Mingw64\mingw64\bin\gcc.exe   -std=c99 -o CMakeFiles\cmTC_0744e.dir\feature_tests.c.obj   -c E:\leeFile\git\github\IrisWorld\build\CMakeFiles\feature_tests.c
+Linking C executable cmTC_0744e.exe
+E:\cMake\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_0744e.dir\link.txt --verbose=1
+E:\cMake\bin\cmake.exe -E remove -f CMakeFiles\cmTC_0744e.dir/objects.a
+E:\leesoft\Mingw64\mingw64\bin\ar.exe cr CMakeFiles\cmTC_0744e.dir/objects.a @CMakeFiles\cmTC_0744e.dir\objects1.rsp
+E:\leesoft\Mingw64\mingw64\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_0744e.dir/objects.a -Wl,--no-whole-archive  -o cmTC_0744e.exe -Wl,--out-implib,libcmTC_0744e.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_0744e.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -228,19 +228,19 @@ mingw32-make.exe[1]: Leaving directory 'C:/Users/lee/Desktop/red/IrisWorld/build
 
 
 Detecting C [-std=c90] compiler features compiled with the following output:
-Change Dir: C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp
+Change Dir: E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe" "cmTC_6b04b/fast"
-E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_6b04b.dir\build.make CMakeFiles/cmTC_6b04b.dir/build
-mingw32-make.exe[1]: Entering directory 'C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_6b04b.dir/feature_tests.c.obj
-E:\leesoft\Mingw64\mingw64\bin\gcc.exe   -std=c90 -o CMakeFiles\cmTC_6b04b.dir\feature_tests.c.obj   -c C:\Users\lee\Desktop\red\IrisWorld\build\CMakeFiles\feature_tests.c
-Linking C executable cmTC_6b04b.exe
-E:\cMake\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_6b04b.dir\link.txt --verbose=1
-E:\cMake\bin\cmake.exe -E remove -f CMakeFiles\cmTC_6b04b.dir/objects.a
-E:\leesoft\Mingw64\mingw64\bin\ar.exe cr CMakeFiles\cmTC_6b04b.dir/objects.a @CMakeFiles\cmTC_6b04b.dir\objects1.rsp
-E:\leesoft\Mingw64\mingw64\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_6b04b.dir/objects.a -Wl,--no-whole-archive  -o cmTC_6b04b.exe -Wl,--out-implib,libcmTC_6b04b.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_6b04b.dir\linklibs.rsp
-mingw32-make.exe[1]: Leaving directory 'C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp'
+Run Build Command:"E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe" "cmTC_1ac86/fast"
+E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_1ac86.dir\build.make CMakeFiles/cmTC_1ac86.dir/build
+mingw32-make.exe[1]: Entering directory 'E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_1ac86.dir/feature_tests.c.obj
+E:\leesoft\Mingw64\mingw64\bin\gcc.exe   -std=c90 -o CMakeFiles\cmTC_1ac86.dir\feature_tests.c.obj   -c E:\leeFile\git\github\IrisWorld\build\CMakeFiles\feature_tests.c
+Linking C executable cmTC_1ac86.exe
+E:\cMake\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_1ac86.dir\link.txt --verbose=1
+E:\cMake\bin\cmake.exe -E remove -f CMakeFiles\cmTC_1ac86.dir/objects.a
+E:\leesoft\Mingw64\mingw64\bin\ar.exe cr CMakeFiles\cmTC_1ac86.dir/objects.a @CMakeFiles\cmTC_1ac86.dir\objects1.rsp
+E:\leesoft\Mingw64\mingw64\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_1ac86.dir/objects.a -Wl,--no-whole-archive  -o cmTC_1ac86.exe -Wl,--out-implib,libcmTC_1ac86.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_1ac86.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -248,34 +248,34 @@ mingw32-make.exe[1]: Leaving directory 'C:/Users/lee/Desktop/red/IrisWorld/build
     Feature record: C_FEATURE:0c_static_assert
     Feature record: C_FEATURE:0c_variadic_macros
 Determining if the CXX compiler works passed with the following output:
-Change Dir: C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp
+Change Dir: E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe" "cmTC_41669/fast"
-E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_41669.dir\build.make CMakeFiles/cmTC_41669.dir/build
-mingw32-make.exe[1]: Entering directory 'C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_41669.dir/testCXXCompiler.cxx.obj
-E:\leesoft\Mingw64\mingw64\bin\g++.exe     -o CMakeFiles\cmTC_41669.dir\testCXXCompiler.cxx.obj -c C:\Users\lee\Desktop\red\IrisWorld\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
-Linking CXX executable cmTC_41669.exe
-E:\cMake\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_41669.dir\link.txt --verbose=1
-E:\cMake\bin\cmake.exe -E remove -f CMakeFiles\cmTC_41669.dir/objects.a
-E:\leesoft\Mingw64\mingw64\bin\ar.exe cr CMakeFiles\cmTC_41669.dir/objects.a @CMakeFiles\cmTC_41669.dir\objects1.rsp
-E:\leesoft\Mingw64\mingw64\bin\g++.exe      -Wl,--whole-archive CMakeFiles\cmTC_41669.dir/objects.a -Wl,--no-whole-archive  -o cmTC_41669.exe -Wl,--out-implib,libcmTC_41669.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_41669.dir\linklibs.rsp
-mingw32-make.exe[1]: Leaving directory 'C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp'
+Run Build Command:"E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe" "cmTC_f66c1/fast"
+E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_f66c1.dir\build.make CMakeFiles/cmTC_f66c1.dir/build
+mingw32-make.exe[1]: Entering directory 'E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_f66c1.dir/testCXXCompiler.cxx.obj
+E:\leesoft\Mingw64\mingw64\bin\g++.exe     -o CMakeFiles\cmTC_f66c1.dir\testCXXCompiler.cxx.obj -c E:\leeFile\git\github\IrisWorld\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+Linking CXX executable cmTC_f66c1.exe
+E:\cMake\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_f66c1.dir\link.txt --verbose=1
+E:\cMake\bin\cmake.exe -E remove -f CMakeFiles\cmTC_f66c1.dir/objects.a
+E:\leesoft\Mingw64\mingw64\bin\ar.exe cr CMakeFiles\cmTC_f66c1.dir/objects.a @CMakeFiles\cmTC_f66c1.dir\objects1.rsp
+E:\leesoft\Mingw64\mingw64\bin\g++.exe      -Wl,--whole-archive CMakeFiles\cmTC_f66c1.dir/objects.a -Wl,--no-whole-archive  -o cmTC_f66c1.exe -Wl,--out-implib,libcmTC_f66c1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_f66c1.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp'
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp
+Change Dir: E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe" "cmTC_6546c/fast"
-E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_6546c.dir\build.make CMakeFiles/cmTC_6546c.dir/build
-mingw32-make.exe[1]: Entering directory 'C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_6546c.dir/CMakeCXXCompilerABI.cpp.obj
-E:\leesoft\Mingw64\mingw64\bin\g++.exe     -o CMakeFiles\cmTC_6546c.dir\CMakeCXXCompilerABI.cpp.obj -c E:\cMake\share\cmake-3.13\Modules\CMakeCXXCompilerABI.cpp
-Linking CXX executable cmTC_6546c.exe
-E:\cMake\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_6546c.dir\link.txt --verbose=1
-E:\cMake\bin\cmake.exe -E remove -f CMakeFiles\cmTC_6546c.dir/objects.a
-E:\leesoft\Mingw64\mingw64\bin\ar.exe cr CMakeFiles\cmTC_6546c.dir/objects.a @CMakeFiles\cmTC_6546c.dir\objects1.rsp
-E:\leesoft\Mingw64\mingw64\bin\g++.exe     -v -Wl,--whole-archive CMakeFiles\cmTC_6546c.dir/objects.a -Wl,--no-whole-archive  -o cmTC_6546c.exe -Wl,--out-implib,libcmTC_6546c.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+Run Build Command:"E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe" "cmTC_e7ccb/fast"
+E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_e7ccb.dir\build.make CMakeFiles/cmTC_e7ccb.dir/build
+mingw32-make.exe[1]: Entering directory 'E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_e7ccb.dir/CMakeCXXCompilerABI.cpp.obj
+E:\leesoft\Mingw64\mingw64\bin\g++.exe     -o CMakeFiles\cmTC_e7ccb.dir\CMakeCXXCompilerABI.cpp.obj -c E:\cMake\share\cmake-3.13\Modules\CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_e7ccb.exe
+E:\cMake\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_e7ccb.dir\link.txt --verbose=1
+E:\cMake\bin\cmake.exe -E remove -f CMakeFiles\cmTC_e7ccb.dir/objects.a
+E:\leesoft\Mingw64\mingw64\bin\ar.exe cr CMakeFiles\cmTC_e7ccb.dir/objects.a @CMakeFiles\cmTC_e7ccb.dir\objects1.rsp
+E:\leesoft\Mingw64\mingw64\bin\g++.exe     -v -Wl,--whole-archive CMakeFiles\cmTC_e7ccb.dir/objects.a -Wl,--no-whole-archive  -o cmTC_e7ccb.exe -Wl,--out-implib,libcmTC_e7ccb.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
 Using built-in specs.
 COLLECT_GCC=E:\leesoft\Mingw64\mingw64\bin\g++.exe
 COLLECT_LTO_WRAPPER=E:/leesoft/Mingw64/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/lto-wrapper.exe
@@ -285,26 +285,26 @@ Thread model: posix
 gcc version 8.1.0 (x86_64-posix-seh-rev0, Built by MinGW-W64 project) 
 COMPILER_PATH=E:/leesoft/Mingw64/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/;E:/leesoft/Mingw64/mingw64/bin/../libexec/gcc/;E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/bin/
 LIBRARY_PATH=E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/;E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/;E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../lib/;E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/;E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_6546c.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona'
- E:/leesoft/Mingw64/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/collect2.exe -plugin E:/leesoft/Mingw64/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/liblto_plugin-0.dll -plugin-opt=E:/leesoft/Mingw64/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\lee\AppData\Local\Temp\ccAYgwwt.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt --sysroot=C:/mingw810/x86_64-810-posix-seh-rt_v6-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_6546c.exe E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtbegin.o -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0 -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../lib -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../.. --whole-archive CMakeFiles\cmTC_6546c.dir/objects.a --no-whole-archive --out-implib libcmTC_6546c.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtend.o
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_6546c.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona'
-mingw32-make.exe[1]: Leaving directory 'C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_e7ccb.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona'
+ E:/leesoft/Mingw64/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/collect2.exe -plugin E:/leesoft/Mingw64/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/liblto_plugin-0.dll -plugin-opt=E:/leesoft/Mingw64/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\lee\AppData\Local\Temp\cc4PmMHV.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt --sysroot=C:/mingw810/x86_64-810-posix-seh-rt_v6-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_e7ccb.exe E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtbegin.o -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0 -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../lib -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../.. --whole-archive CMakeFiles\cmTC_e7ccb.dir/objects.a --no-whole-archive --out-implib libcmTC_e7ccb.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtend.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_e7ccb.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona'
+mingw32-make.exe[1]: Leaving directory 'E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp'
 
 
 Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe" "cmTC_6546c/fast"]
-  ignore line: [E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_6546c.dir\build.make CMakeFiles/cmTC_6546c.dir/build]
-  ignore line: [mingw32-make.exe[1]: Entering directory 'C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp']
-  ignore line: [Building CXX object CMakeFiles/cmTC_6546c.dir/CMakeCXXCompilerABI.cpp.obj]
-  ignore line: [E:\leesoft\Mingw64\mingw64\bin\g++.exe     -o CMakeFiles\cmTC_6546c.dir\CMakeCXXCompilerABI.cpp.obj -c E:\cMake\share\cmake-3.13\Modules\CMakeCXXCompilerABI.cpp]
-  ignore line: [Linking CXX executable cmTC_6546c.exe]
-  ignore line: [E:\cMake\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_6546c.dir\link.txt --verbose=1]
-  ignore line: [E:\cMake\bin\cmake.exe -E remove -f CMakeFiles\cmTC_6546c.dir/objects.a]
-  ignore line: [E:\leesoft\Mingw64\mingw64\bin\ar.exe cr CMakeFiles\cmTC_6546c.dir/objects.a @CMakeFiles\cmTC_6546c.dir\objects1.rsp]
-  ignore line: [E:\leesoft\Mingw64\mingw64\bin\g++.exe     -v -Wl,--whole-archive CMakeFiles\cmTC_6546c.dir/objects.a -Wl,--no-whole-archive  -o cmTC_6546c.exe -Wl,--out-implib,libcmTC_6546c.dll.a -Wl,--major-image-version,0,--minor-image-version,0 ]
+  ignore line: [Run Build Command:"E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe" "cmTC_e7ccb/fast"]
+  ignore line: [E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_e7ccb.dir\build.make CMakeFiles/cmTC_e7ccb.dir/build]
+  ignore line: [mingw32-make.exe[1]: Entering directory 'E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp']
+  ignore line: [Building CXX object CMakeFiles/cmTC_e7ccb.dir/CMakeCXXCompilerABI.cpp.obj]
+  ignore line: [E:\leesoft\Mingw64\mingw64\bin\g++.exe     -o CMakeFiles\cmTC_e7ccb.dir\CMakeCXXCompilerABI.cpp.obj -c E:\cMake\share\cmake-3.13\Modules\CMakeCXXCompilerABI.cpp]
+  ignore line: [Linking CXX executable cmTC_e7ccb.exe]
+  ignore line: [E:\cMake\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_e7ccb.dir\link.txt --verbose=1]
+  ignore line: [E:\cMake\bin\cmake.exe -E remove -f CMakeFiles\cmTC_e7ccb.dir/objects.a]
+  ignore line: [E:\leesoft\Mingw64\mingw64\bin\ar.exe cr CMakeFiles\cmTC_e7ccb.dir/objects.a @CMakeFiles\cmTC_e7ccb.dir\objects1.rsp]
+  ignore line: [E:\leesoft\Mingw64\mingw64\bin\g++.exe     -v -Wl,--whole-archive CMakeFiles\cmTC_e7ccb.dir/objects.a -Wl,--no-whole-archive  -o cmTC_e7ccb.exe -Wl,--out-implib,libcmTC_e7ccb.dll.a -Wl,--major-image-version,0,--minor-image-version,0 ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=E:\leesoft\Mingw64\mingw64\bin\g++.exe]
   ignore line: [COLLECT_LTO_WRAPPER=E:/leesoft/Mingw64/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/lto-wrapper.exe]
@@ -321,13 +321,13 @@ Parsed CXX implicit link information from above output:
   ignore line: [E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../lib/]
   ignore line: [E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/]
   ignore line: [E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_6546c.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona']
-  link line: [ E:/leesoft/Mingw64/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/collect2.exe -plugin E:/leesoft/Mingw64/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/liblto_plugin-0.dll -plugin-opt=E:/leesoft/Mingw64/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\lee\AppData\Local\Temp\ccAYgwwt.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt --sysroot=C:/mingw810/x86_64-810-posix-seh-rt_v6-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_6546c.exe E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtbegin.o -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0 -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../lib -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../.. --whole-archive CMakeFiles\cmTC_6546c.dir/objects.a --no-whole-archive --out-implib libcmTC_6546c.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtend.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_e7ccb.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona']
+  link line: [ E:/leesoft/Mingw64/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/collect2.exe -plugin E:/leesoft/Mingw64/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/liblto_plugin-0.dll -plugin-opt=E:/leesoft/Mingw64/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\lee\AppData\Local\Temp\cc4PmMHV.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt --sysroot=C:/mingw810/x86_64-810-posix-seh-rt_v6-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_e7ccb.exe E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtbegin.o -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0 -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../lib -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib -LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../.. --whole-archive CMakeFiles\cmTC_e7ccb.dir/objects.a --no-whole-archive --out-implib libcmTC_e7ccb.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtend.o]
     arg [E:/leesoft/Mingw64/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/collect2.exe] ==> ignore
     arg [-plugin] ==> ignore
     arg [E:/leesoft/Mingw64/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/liblto_plugin-0.dll] ==> ignore
     arg [-plugin-opt=E:/leesoft/Mingw64/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/lto-wrapper.exe] ==> ignore
-    arg [-plugin-opt=-fresolution=C:\Users\lee\AppData\Local\Temp\ccAYgwwt.res] ==> ignore
+    arg [-plugin-opt=-fresolution=C:\Users\lee\AppData\Local\Temp\cc4PmMHV.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
@@ -351,7 +351,7 @@ Parsed CXX implicit link information from above output:
     arg [i386pep] ==> ignore
     arg [-Bdynamic] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_6546c.exe] ==> ignore
+    arg [cmTC_e7ccb.exe] ==> ignore
     arg [E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o] ==> ignore
     arg [E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtbegin.o] ==> ignore
     arg [-LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0] ==> dir [E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0]
@@ -361,10 +361,10 @@ Parsed CXX implicit link information from above output:
     arg [-LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib] ==> dir [E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib]
     arg [-LE:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../..] ==> dir [E:/leesoft/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../..]
     arg [--whole-archive] ==> ignore
-    arg [CMakeFiles\cmTC_6546c.dir/objects.a] ==> ignore
+    arg [CMakeFiles\cmTC_e7ccb.dir/objects.a] ==> ignore
     arg [--no-whole-archive] ==> ignore
     arg [--out-implib] ==> ignore
-    arg [libcmTC_6546c.dll.a] ==> ignore
+    arg [libcmTC_e7ccb.dll.a] ==> ignore
     arg [--major-image-version] ==> ignore
     arg [0] ==> ignore
     arg [--minor-image-version] ==> ignore
@@ -405,19 +405,19 @@ Parsed CXX implicit link information from above output:
 
 
 Detecting CXX [-std=c++2a] compiler features compiled with the following output:
-Change Dir: C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp
+Change Dir: E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe" "cmTC_b4def/fast"
-E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_b4def.dir\build.make CMakeFiles/cmTC_b4def.dir/build
-mingw32-make.exe[1]: Entering directory 'C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_b4def.dir/feature_tests.cxx.obj
-E:\leesoft\Mingw64\mingw64\bin\g++.exe    -std=c++2a -o CMakeFiles\cmTC_b4def.dir\feature_tests.cxx.obj -c C:\Users\lee\Desktop\red\IrisWorld\build\CMakeFiles\feature_tests.cxx
-Linking CXX executable cmTC_b4def.exe
-E:\cMake\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_b4def.dir\link.txt --verbose=1
-E:\cMake\bin\cmake.exe -E remove -f CMakeFiles\cmTC_b4def.dir/objects.a
-E:\leesoft\Mingw64\mingw64\bin\ar.exe cr CMakeFiles\cmTC_b4def.dir/objects.a @CMakeFiles\cmTC_b4def.dir\objects1.rsp
-E:\leesoft\Mingw64\mingw64\bin\g++.exe      -Wl,--whole-archive CMakeFiles\cmTC_b4def.dir/objects.a -Wl,--no-whole-archive  -o cmTC_b4def.exe -Wl,--out-implib,libcmTC_b4def.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_b4def.dir\linklibs.rsp
-mingw32-make.exe[1]: Leaving directory 'C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp'
+Run Build Command:"E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe" "cmTC_ab946/fast"
+E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_ab946.dir\build.make CMakeFiles/cmTC_ab946.dir/build
+mingw32-make.exe[1]: Entering directory 'E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_ab946.dir/feature_tests.cxx.obj
+E:\leesoft\Mingw64\mingw64\bin\g++.exe    -std=c++2a -o CMakeFiles\cmTC_ab946.dir\feature_tests.cxx.obj -c E:\leeFile\git\github\IrisWorld\build\CMakeFiles\feature_tests.cxx
+Linking CXX executable cmTC_ab946.exe
+E:\cMake\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_ab946.dir\link.txt --verbose=1
+E:\cMake\bin\cmake.exe -E remove -f CMakeFiles\cmTC_ab946.dir/objects.a
+E:\leesoft\Mingw64\mingw64\bin\ar.exe cr CMakeFiles\cmTC_ab946.dir/objects.a @CMakeFiles\cmTC_ab946.dir\objects1.rsp
+E:\leesoft\Mingw64\mingw64\bin\g++.exe      -Wl,--whole-archive CMakeFiles\cmTC_ab946.dir/objects.a -Wl,--no-whole-archive  -o cmTC_ab946.exe -Wl,--out-implib,libcmTC_ab946.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_ab946.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -480,19 +480,19 @@ mingw32-make.exe[1]: Leaving directory 'C:/Users/lee/Desktop/red/IrisWorld/build
 
 
 Detecting CXX [-std=c++17] compiler features compiled with the following output:
-Change Dir: C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp
+Change Dir: E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe" "cmTC_9f125/fast"
-E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_9f125.dir\build.make CMakeFiles/cmTC_9f125.dir/build
-mingw32-make.exe[1]: Entering directory 'C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_9f125.dir/feature_tests.cxx.obj
-E:\leesoft\Mingw64\mingw64\bin\g++.exe    -std=c++17 -o CMakeFiles\cmTC_9f125.dir\feature_tests.cxx.obj -c C:\Users\lee\Desktop\red\IrisWorld\build\CMakeFiles\feature_tests.cxx
-Linking CXX executable cmTC_9f125.exe
-E:\cMake\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_9f125.dir\link.txt --verbose=1
-E:\cMake\bin\cmake.exe -E remove -f CMakeFiles\cmTC_9f125.dir/objects.a
-E:\leesoft\Mingw64\mingw64\bin\ar.exe cr CMakeFiles\cmTC_9f125.dir/objects.a @CMakeFiles\cmTC_9f125.dir\objects1.rsp
-E:\leesoft\Mingw64\mingw64\bin\g++.exe      -Wl,--whole-archive CMakeFiles\cmTC_9f125.dir/objects.a -Wl,--no-whole-archive  -o cmTC_9f125.exe -Wl,--out-implib,libcmTC_9f125.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_9f125.dir\linklibs.rsp
-mingw32-make.exe[1]: Leaving directory 'C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp'
+Run Build Command:"E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe" "cmTC_c2b5b/fast"
+E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_c2b5b.dir\build.make CMakeFiles/cmTC_c2b5b.dir/build
+mingw32-make.exe[1]: Entering directory 'E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_c2b5b.dir/feature_tests.cxx.obj
+E:\leesoft\Mingw64\mingw64\bin\g++.exe    -std=c++17 -o CMakeFiles\cmTC_c2b5b.dir\feature_tests.cxx.obj -c E:\leeFile\git\github\IrisWorld\build\CMakeFiles\feature_tests.cxx
+Linking CXX executable cmTC_c2b5b.exe
+E:\cMake\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_c2b5b.dir\link.txt --verbose=1
+E:\cMake\bin\cmake.exe -E remove -f CMakeFiles\cmTC_c2b5b.dir/objects.a
+E:\leesoft\Mingw64\mingw64\bin\ar.exe cr CMakeFiles\cmTC_c2b5b.dir/objects.a @CMakeFiles\cmTC_c2b5b.dir\objects1.rsp
+E:\leesoft\Mingw64\mingw64\bin\g++.exe      -Wl,--whole-archive CMakeFiles\cmTC_c2b5b.dir/objects.a -Wl,--no-whole-archive  -o cmTC_c2b5b.exe -Wl,--out-implib,libcmTC_c2b5b.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_c2b5b.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -555,19 +555,19 @@ mingw32-make.exe[1]: Leaving directory 'C:/Users/lee/Desktop/red/IrisWorld/build
 
 
 Detecting CXX [-std=c++14] compiler features compiled with the following output:
-Change Dir: C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp
+Change Dir: E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe" "cmTC_cae8f/fast"
-E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_cae8f.dir\build.make CMakeFiles/cmTC_cae8f.dir/build
-mingw32-make.exe[1]: Entering directory 'C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_cae8f.dir/feature_tests.cxx.obj
-E:\leesoft\Mingw64\mingw64\bin\g++.exe    -std=c++14 -o CMakeFiles\cmTC_cae8f.dir\feature_tests.cxx.obj -c C:\Users\lee\Desktop\red\IrisWorld\build\CMakeFiles\feature_tests.cxx
-Linking CXX executable cmTC_cae8f.exe
-E:\cMake\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_cae8f.dir\link.txt --verbose=1
-E:\cMake\bin\cmake.exe -E remove -f CMakeFiles\cmTC_cae8f.dir/objects.a
-E:\leesoft\Mingw64\mingw64\bin\ar.exe cr CMakeFiles\cmTC_cae8f.dir/objects.a @CMakeFiles\cmTC_cae8f.dir\objects1.rsp
-E:\leesoft\Mingw64\mingw64\bin\g++.exe      -Wl,--whole-archive CMakeFiles\cmTC_cae8f.dir/objects.a -Wl,--no-whole-archive  -o cmTC_cae8f.exe -Wl,--out-implib,libcmTC_cae8f.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_cae8f.dir\linklibs.rsp
-mingw32-make.exe[1]: Leaving directory 'C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp'
+Run Build Command:"E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe" "cmTC_d3f50/fast"
+E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_d3f50.dir\build.make CMakeFiles/cmTC_d3f50.dir/build
+mingw32-make.exe[1]: Entering directory 'E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_d3f50.dir/feature_tests.cxx.obj
+E:\leesoft\Mingw64\mingw64\bin\g++.exe    -std=c++14 -o CMakeFiles\cmTC_d3f50.dir\feature_tests.cxx.obj -c E:\leeFile\git\github\IrisWorld\build\CMakeFiles\feature_tests.cxx
+Linking CXX executable cmTC_d3f50.exe
+E:\cMake\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_d3f50.dir\link.txt --verbose=1
+E:\cMake\bin\cmake.exe -E remove -f CMakeFiles\cmTC_d3f50.dir/objects.a
+E:\leesoft\Mingw64\mingw64\bin\ar.exe cr CMakeFiles\cmTC_d3f50.dir/objects.a @CMakeFiles\cmTC_d3f50.dir\objects1.rsp
+E:\leesoft\Mingw64\mingw64\bin\g++.exe      -Wl,--whole-archive CMakeFiles\cmTC_d3f50.dir/objects.a -Wl,--no-whole-archive  -o cmTC_d3f50.exe -Wl,--out-implib,libcmTC_d3f50.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_d3f50.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -630,19 +630,19 @@ mingw32-make.exe[1]: Leaving directory 'C:/Users/lee/Desktop/red/IrisWorld/build
 
 
 Detecting CXX [-std=c++11] compiler features compiled with the following output:
-Change Dir: C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp
+Change Dir: E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe" "cmTC_0559e/fast"
-E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_0559e.dir\build.make CMakeFiles/cmTC_0559e.dir/build
-mingw32-make.exe[1]: Entering directory 'C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_0559e.dir/feature_tests.cxx.obj
-E:\leesoft\Mingw64\mingw64\bin\g++.exe    -std=c++11 -o CMakeFiles\cmTC_0559e.dir\feature_tests.cxx.obj -c C:\Users\lee\Desktop\red\IrisWorld\build\CMakeFiles\feature_tests.cxx
-Linking CXX executable cmTC_0559e.exe
-E:\cMake\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_0559e.dir\link.txt --verbose=1
-E:\cMake\bin\cmake.exe -E remove -f CMakeFiles\cmTC_0559e.dir/objects.a
-E:\leesoft\Mingw64\mingw64\bin\ar.exe cr CMakeFiles\cmTC_0559e.dir/objects.a @CMakeFiles\cmTC_0559e.dir\objects1.rsp
-E:\leesoft\Mingw64\mingw64\bin\g++.exe      -Wl,--whole-archive CMakeFiles\cmTC_0559e.dir/objects.a -Wl,--no-whole-archive  -o cmTC_0559e.exe -Wl,--out-implib,libcmTC_0559e.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_0559e.dir\linklibs.rsp
-mingw32-make.exe[1]: Leaving directory 'C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp'
+Run Build Command:"E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe" "cmTC_a65b0/fast"
+E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_a65b0.dir\build.make CMakeFiles/cmTC_a65b0.dir/build
+mingw32-make.exe[1]: Entering directory 'E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_a65b0.dir/feature_tests.cxx.obj
+E:\leesoft\Mingw64\mingw64\bin\g++.exe    -std=c++11 -o CMakeFiles\cmTC_a65b0.dir\feature_tests.cxx.obj -c E:\leeFile\git\github\IrisWorld\build\CMakeFiles\feature_tests.cxx
+Linking CXX executable cmTC_a65b0.exe
+E:\cMake\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_a65b0.dir\link.txt --verbose=1
+E:\cMake\bin\cmake.exe -E remove -f CMakeFiles\cmTC_a65b0.dir/objects.a
+E:\leesoft\Mingw64\mingw64\bin\ar.exe cr CMakeFiles\cmTC_a65b0.dir/objects.a @CMakeFiles\cmTC_a65b0.dir\objects1.rsp
+E:\leesoft\Mingw64\mingw64\bin\g++.exe      -Wl,--whole-archive CMakeFiles\cmTC_a65b0.dir/objects.a -Wl,--no-whole-archive  -o cmTC_a65b0.exe -Wl,--out-implib,libcmTC_a65b0.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_a65b0.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
@@ -705,19 +705,19 @@ mingw32-make.exe[1]: Leaving directory 'C:/Users/lee/Desktop/red/IrisWorld/build
 
 
 Detecting CXX [-std=c++98] compiler features compiled with the following output:
-Change Dir: C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp
+Change Dir: E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe" "cmTC_50c50/fast"
-E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_50c50.dir\build.make CMakeFiles/cmTC_50c50.dir/build
-mingw32-make.exe[1]: Entering directory 'C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_50c50.dir/feature_tests.cxx.obj
-E:\leesoft\Mingw64\mingw64\bin\g++.exe    -std=c++98 -o CMakeFiles\cmTC_50c50.dir\feature_tests.cxx.obj -c C:\Users\lee\Desktop\red\IrisWorld\build\CMakeFiles\feature_tests.cxx
-Linking CXX executable cmTC_50c50.exe
-E:\cMake\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_50c50.dir\link.txt --verbose=1
-E:\cMake\bin\cmake.exe -E remove -f CMakeFiles\cmTC_50c50.dir/objects.a
-E:\leesoft\Mingw64\mingw64\bin\ar.exe cr CMakeFiles\cmTC_50c50.dir/objects.a @CMakeFiles\cmTC_50c50.dir\objects1.rsp
-E:\leesoft\Mingw64\mingw64\bin\g++.exe      -Wl,--whole-archive CMakeFiles\cmTC_50c50.dir/objects.a -Wl,--no-whole-archive  -o cmTC_50c50.exe -Wl,--out-implib,libcmTC_50c50.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_50c50.dir\linklibs.rsp
-mingw32-make.exe[1]: Leaving directory 'C:/Users/lee/Desktop/red/IrisWorld/build/CMakeFiles/CMakeTmp'
+Run Build Command:"E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe" "cmTC_e1a20/fast"
+E:/leesoft/Mingw64/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_e1a20.dir\build.make CMakeFiles/cmTC_e1a20.dir/build
+mingw32-make.exe[1]: Entering directory 'E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_e1a20.dir/feature_tests.cxx.obj
+E:\leesoft\Mingw64\mingw64\bin\g++.exe    -std=c++98 -o CMakeFiles\cmTC_e1a20.dir\feature_tests.cxx.obj -c E:\leeFile\git\github\IrisWorld\build\CMakeFiles\feature_tests.cxx
+Linking CXX executable cmTC_e1a20.exe
+E:\cMake\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_e1a20.dir\link.txt --verbose=1
+E:\cMake\bin\cmake.exe -E remove -f CMakeFiles\cmTC_e1a20.dir/objects.a
+E:\leesoft\Mingw64\mingw64\bin\ar.exe cr CMakeFiles\cmTC_e1a20.dir/objects.a @CMakeFiles\cmTC_e1a20.dir\objects1.rsp
+E:\leesoft\Mingw64\mingw64\bin\g++.exe      -Wl,--whole-archive CMakeFiles\cmTC_e1a20.dir/objects.a -Wl,--no-whole-archive  -o cmTC_e1a20.exe -Wl,--out-implib,libcmTC_e1a20.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_e1a20.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'E:/leeFile/git/github/IrisWorld/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
